@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\мишадь\desktop\minesweeper\minesweeper\main.cpp(84): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\мишадь\desktop\minesweeper\minesweeper\main.cpp(242): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\conio.h(452): note:  см. объявление "getch"
+  minesweeper.vcxproj -> C:\Users\Мишадь\Desktop\minesweeper\Debug\minesweeper.exe
+  minesweeper.vcxproj -> C:\Users\Мишадь\Desktop\minesweeper\Debug\minesweeper.pdb (Partial PDB)
